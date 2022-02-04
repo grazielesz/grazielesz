@@ -1,7 +1,7 @@
 <h2> hello, i'm graziele!<h2>
 
 <h4>
-I take technical course in informatics at IFRS, in Brazil and CNPQ research fellow. I program in HTML, CSS, JavaScript, Python, Java and a little SQL. Always looking for more! ✨
+I take technical course in informatics at IFRS, in Brazil and CNPQ research fellow. Always looking for more! ✨
 <h4>
     
 <h5> ENTJ, 1w8 | she/her.
@@ -15,7 +15,7 @@ I take technical course in informatics at IFRS, in Brazil and CNPQ research fell
     
 <div style="display: inline_block"><br>
   <img align="center" alt="zie-script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="zie-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="zie-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="zie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zie-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
