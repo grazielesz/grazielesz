@@ -28,7 +28,6 @@ I take technical course in informatics at IFRS, in Brazil and CNPQ research fell
   <a href="https://instagram.com/grazielesz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:grazilopesouza3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://open.spotify.com/user/grazilopesouza?si=e4a0da350b4c4b8d"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-    
-     ![Snake animation](https://github.com/grazielesz/grazielesz/blob/output/github-contribution-grid-snake.svg)
+</div>
     
 </div>
