@@ -1,7 +1,7 @@
 <h2> hello, i'm graziele!<h2>
 
 <h4>
-I take technical course in informatics at IFRS and I am a researcher of CNPQ. Always looking for more! ✨
+I take technical course in informatics at IFRS, a researcher at CNPq and enthusiastic about music theory and social sciences. Always looking for more! ✨
 <h4>
     
 <h5> ENTJ, 1w8 | she/her.
@@ -9,8 +9,8 @@ I take technical course in informatics at IFRS and I am a researcher of CNPQ. Al
     
 <div align="center">
   <a href="https://github.com/grazielesz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=grazielesz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazielesz&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=grazielesz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazielesz&layout=compact&langs_count=7&theme=radical"/>
 </div> 
     
 <div style="display: inline_block"><br>
@@ -19,6 +19,7 @@ I take technical course in informatics at IFRS and I am a researcher of CNPQ. Al
   <img align="center" alt="zie-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zie-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="zie-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="right" alt="zie-pic" height="100" src="https://64.media.tumblr.com/e4c2587b31298bbe24305c0ccf71258d/1a5acf95be280cdc-fd/s540x810/8c49c6be8a910e8ab7f8fee39dfe8d8dc0294632.gifv">
 </div>
   
