@@ -28,6 +28,8 @@ I take technical course in informatics at IFRS and I am a researcher of CNPQ. Al
   <a href="https://instagram.com/grazielesz_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:grazilopesouza3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href ="https://open.spotify.com/user/grazilopesouza?si=e4a0da350b4c4b8d"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-</div>
-    
+      <a href="https://www.linkedin.com/in/grazielesz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/grazielesz/grazielesz/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
