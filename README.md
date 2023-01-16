@@ -1,10 +1,10 @@
 <h2> hello, i'm graziele!<h2>
 
 <h4>
-I take technical course in informatics at IFRS, a researcher at CNPq and enthusiastic about music theory and social sciences. Always looking for more! ✨
+I take technical course in informatics at IFRS and researcher at CNPq. Always looking for more! ✨
 <h4>
  
-<h5> ENTJ, 1w8 | she/her.
+<h5> ENTJ, 1w8 | she.
     <p>
        🐝 star wars, red hot chili peppers and kittens. :)
     </p>
@@ -23,7 +23,7 @@ I take technical course in informatics at IFRS, a researcher at CNPq and enthusi
   <img align="center" alt="zie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="zie-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="zie-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="zie-pic" height="100" src="https://64.media.tumblr.com/e4c2587b31298bbe24305c0ccf71258d/1a5acf95be280cdc-fd/s540x810/8c49c6be8a910e8ab7f8fee39dfe8d8dc0294632.gifv">
+  <img align="right" alt="zie-pic" height="100" src="https://64.media.tumblr.com/a45e0c2ca642c911c59c5aaad7b13fc9/7116258d92b67d2c-60/s400x600/95200d7378074d5f72f294ac0d157a14b4410eff.gifv">
 </div>
   
   ##
