@@ -4,9 +4,9 @@
 I take technical course in informatics at IFRS and researcher at CNPq. Always looking for more! ✨
 <h4>
  
-<h5> ENTJ, 1w8 | she.
+<h5> INTJ, 1w8 | she.
     <p>
-       🐝 star wars, red hot chili peppers and kittens. :)
+       🐝 star wars and kittens. :)
     </p>
 <h5>
     
