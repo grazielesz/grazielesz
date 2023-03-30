@@ -4,17 +4,11 @@
 I take technical course in informatics at IFRS and researcher at CNPq. Always looking for more! ✨
 <h4>
  
-<h5> INTJ, 1w8 | she.
+<h5> INTJ, 1w8. 🧫
     <p>
-       🐝 star wars and kittens. :)
+       star wars and kittens. :)
     </p>
 <h5>
-    
-<div align="center">
-  <a href="https://github.com/grazielesz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=grazielesz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazielesz&layout=compact&langs_count=7&theme=radical"/>
-</div> 
     
 <div style="display: inline_block"><br>
   <img align="center" alt="zie-script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
