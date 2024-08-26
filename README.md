@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=460084&height=110&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=966cff&height=90&section=header"/>
 <h2>Hi, I'm Graziele! 🥨</h2>
 <div align="justify">
 <p>Sou técnica em informática formada pelo Instituto Federal do Rio Grande do Sul e fui pesquisadora
@@ -25,4 +25,4 @@ Sempre procurando por mais! ✨ </p>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=460084&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=966cff&height=90&section=footer"/>
