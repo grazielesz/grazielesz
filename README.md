@@ -1,7 +1,7 @@
 <h2>Hi, I'm Graziele! 🥨</h2>
 <div align="justify">
 <p>Sou técnica em informática formada pelo Instituto Federal do Rio Grande do Sul e UX-UI designer. Fui pesquisadora
-de representatividade feminina na área da computação pelo CNPq, sendo apaixonada pela programação. Atualmente trabalho com análise de crédito.
+de representatividade feminina na área da computação pelo CNPq, sendo apaixonada pela programação. Atualmente sou Analista de Mídias Jr.
 Sempre procurando por mais! ✨ </p>
 </div>
 
